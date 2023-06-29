@@ -16,20 +16,20 @@ To use the BinaryTree code:
 
 # import javax.swing.tree.TreeNode;
 
-# public class BinaryTree {
-#    // Code implementation...
-#    public static void main(String[] args) {
-#        BinaryTree tree = new BinaryTree();
-#        tree.createBinaryTree();
-#        tree.printTree();
-#    }
-# }
+ public class BinaryTree {
+    // Code implementation...
+    public static void main(String[] args) {
+        BinaryTree tree = new BinaryTree();
+        tree.createBinaryTree();
+        tree.printTree();
+    }
+ }
 
 ## Example
 The following example demonstrates the usage of the BinaryTree class:
-# BinaryTree tree = new BinaryTree();
-# tree.createBinaryTree();
-# tree.printTree();
+ BinaryTree tree = new BinaryTree();
+ tree.createBinaryTree();
+ tree.printTree();
 
 Output:
 2 0 5 3 4
